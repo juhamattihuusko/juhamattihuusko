@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... | Free Software
 - 🌱 I’m currently learning ... | PHP and Javascript
 - 💞️ I’m looking to collaborate on ... | anything
-- 📫 How to reach me ... | you can find me
+- 📫 How to reach me ... | you can email me: juha-matti.huusko@protonmail.com
 
 
 
